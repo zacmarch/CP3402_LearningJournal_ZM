@@ -18,6 +18,7 @@ Learning journal to track my learning in the CP3402 subject
 
 ## Resources/Links
 HTML video tutorial:https://www.youtube.com/watch?v=UB1O30fR-EE
+
 CSS Video tutorial:https://www.youtube.com/watch?v=1PnVor36_40
 
 ### Bootstrap

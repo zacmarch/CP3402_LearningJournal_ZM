@@ -28,7 +28,7 @@ Learning journal to track my learning in the CP3402 subject
 
 ## Content Insights
 * I found bootstrap to be a fast and intuitaive CSS framework. It sped up the process of building a wesbite tremendously for this weeks practical. I plan to utilise the boostrap framework in future projects.
-* AWS Amplify was very easy to use and its ability to host from a github repository saves a lot of time. I plan to use this service in future website development projects.  
+* AWS Amplify was very easy to use and its ability to host from a github repository saves a lot of time. I plan to use this service for hosting future website development projects.  
 
 
 ## Career or Employability insights

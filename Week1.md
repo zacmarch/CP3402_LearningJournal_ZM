@@ -17,9 +17,8 @@ Learning journal to track my learning in the CP3402 subject
 * Developed website that fit practical 1's requirements.
 
 ## Resources/Links
-HTML video tutorial:https://www.youtube.com/watch?v=UB1O30fR-EE
-
-CSS Video tutorial:https://www.youtube.com/watch?v=1PnVor36_40
+* HTML video tutorial:https://www.youtube.com/watch?v=UB1O30fR-EE
+* CSS Video tutorial:https://www.youtube.com/watch?v=1PnVor36_40
 
 ### Bootstrap
 * Video tutorial: https://www.youtube.com/watch?v=MscGIBk68So

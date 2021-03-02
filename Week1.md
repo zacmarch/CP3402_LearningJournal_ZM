@@ -19,10 +19,8 @@ Learning journal to track my learning in the CP3402 subject
 ## Resources/Links
 * HTML video tutorial:https://www.youtube.com/watch?v=UB1O30fR-EE
 * CSS Video tutorial:https://www.youtube.com/watch?v=1PnVor36_40
-
-### Bootstrap
-* Video tutorial: https://www.youtube.com/watch?v=MscGIBk68So
-* Documentation: https://getbootstrap.com/docs/4.1/getting-started/introduction/
+* Bootstrap video tutorial: https://www.youtube.com/watch?v=MscGIBk68So
+* Boostrap documentation: https://getbootstrap.com/docs/4.1/getting-started/introduction/
 
 ## Estimated hours
 * Learning through reading/watching: ~2-3hours

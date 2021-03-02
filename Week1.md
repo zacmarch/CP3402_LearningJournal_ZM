@@ -25,8 +25,8 @@ Learning journal to track my learning in the CP3402 subject
 * Documentation: https://getbootstrap.com/docs/4.1/getting-started/introduction/
 
 ## Estimated hours
-Learning through reading/watching: ~2-3hours
-Learning through doing: ~3hrs
+* Learning through reading/watching: ~2-3hours
+* Learning through doing: ~3hrs
 
 ## Content Insights
 * I found bootstrap to be a fast and intuitaive CSS framework. It sped up the process of building a wesbite tremendously for this weeks practical. I plan to utilise the boostrap framework in future projects.

@@ -1,4 +1,4 @@
-# CP3402_LearningJournal_ZM
+CP3402_LearningJournal_ZM
 Learning journal to track my learning in the CP3402 subject
 
 ## Week: 1
@@ -12,6 +12,7 @@ Learning journal to track my learning in the CP3402 subject
 ### Website development
 * Watched multiple youtube tutorials to refresh my knowledge of creating websites with HTML and CSS.
 * Watched multiple youtube tutorials on the basics of creating websites with bootstrap.
-* Practiced using bootstrap and html
-* Developed website that fit practical 1's requirements
+** https://www.youtube.com/watch?v=MscGIBk68So
+* Practiced using bootstrap and html.
+* Developed website that fit practical 1's requirements.
 

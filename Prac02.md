@@ -19,7 +19,7 @@ Learning journal to track my learning in the CP3402 subject
 * Learning through doing: 10hrs
 
 ## Content Insights
-* I found joomla to be very difficult to work with and completing a simple website to an immense amount of time. The interface seems to be very unintuitive and many hours were spent crawling through forums to solve simple design issues. 
+* I found joomla to be very difficult to work with and completing a simple website took an immense amount of time. The interface seems to be very unintuitive and many hours were spent crawling through forums to solve simple design issues. 
 
 ## Career or Employability insights
 I found that designing a website with Joomla is a very difficult task for someone who is not familar with the CMS's interface. I began this task with with an idea that was beyond the realms of possibility and wasted many hours trying to build a website that I did not have the skills to build. This has shown me that time management skills are very important and I need to be better at constructing plans and prioritising tasks when doing projects. 

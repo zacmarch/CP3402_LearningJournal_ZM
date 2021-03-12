@@ -10,7 +10,7 @@ Learning journal to track my learning in the CP3402 subject
 * Developed a basic joomla website based on the website I completed in practical 1
 
 ## Resources/Links
-* [Customising joomla website template demonstration] https://www.youtube.com/watch?v=qoWyXeEiTao
+* [Customising joomla website template demonstration](https://www.youtube.com/watch?v=qoWyXeEiTao)
 ## Estimated hours
 * Learning through reading/watching:
 * Learning through doing:

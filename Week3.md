@@ -12,10 +12,10 @@ Learning journal to track my learning in the CP3402 subject
 * Developed a basic wordpress website
 
 ## Resources/Links
-* [Wordpress documentation][developer.wordpress.org]
-* [Video - Lynda.com series: Wordpress Essential training][https://www.linkedin.com/learning/wordpress-5-essential-training/manage-content-in-wordpress?u=2223545]
-* [Video - Youtube: Using WooComerce plugin][https://www.youtube.com/watch?v=Txg-PrWRdzs&t=2571s]
-* [Video - Youtube: How to host wordpress locally][https://www.youtube.com/watch?v=CTNFZRdDotM] 
+* [Wordpress documentation](developer.wordpress.org)
+* [Video - Lynda.com series: Wordpress Essential training](https://www.linkedin.com/learning/wordpress-5-essential-training/manage-content-in-wordpress?u=2223545)
+* [Video - Youtube: Using WooComerce plugin](https://www.youtube.com/watch?v=Txg-PrWRdzs&t=2571s)
+* [Video - Youtube: How to host wordpress locally](https://www.youtube.com/watch?v=CTNFZRdDotM)
 
 ## Estimated hours
 * Learning through reading/watching: 5hrs

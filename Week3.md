@@ -22,8 +22,8 @@ Learning journal to track my learning in the CP3402 subject
 * Learning through doing: 5hrs
 
 ## Content Insights
-The process of making a website through Wordpress was a lot simpler than with Joomla and it is now clear to me why Wordpress is the most popular CMS. If I were to make a website in the future I would use Wordpress.     
+The process of making a website through Wordpress was a lot simpler than with Joomla and it is now clear to me why Wordpress is the most popular CMS. If I ever need to make a website in the future I would use Wordpress.     
 
 ## Career or Employability insights
-The group interview activity hightlighted how important good communication skills will be in the workplace. These skills ae not only important for the initial hiring interviews 
+The group interview activity hightlighted how important good communication skills will be in the workplace. These skills are not only important for the initial hiring interviews 
 but for the day to day interactions I will have with my coworkers. I believe my communication skills need work and I plan to refine these skills to make myself more employable. 

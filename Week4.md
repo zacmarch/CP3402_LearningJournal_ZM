@@ -19,3 +19,4 @@ AWS Lightsail: https://aws.amazon.com/lightsail/
 I found Lightsail to be a extremely useful tool for hosting websites with a CMS. I was able to get a hosted websites set up in minutes. I will utilize Lightsail for future CMS projects.
 
 ## Career or Employability insights
+No major career or employability insights were gained this week.
